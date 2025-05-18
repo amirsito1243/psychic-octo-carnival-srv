@@ -2471,5 +2471,11 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/misc/magenta_dye_from_fireweed": {
+    "criteria": {
+      "has_fireweed": "2025-05-18 18:39:14 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3955
 }

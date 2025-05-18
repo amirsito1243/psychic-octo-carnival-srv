@@ -12728,3 +12728,7 @@ Caused by: com.google.gson.stream.MalformedJsonException: Expected name at line 
 [18May2025 18:39:56.828] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Set own game mode to Survival Mode]
 [18May2025 18:39:56.884] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ItemEntity['Lantern'/3516, l='ServerLevel[world]', x=-1516.56, y=-43.00, z=474.56, removed=UNLOADED_TO_CHUNK]
 [18May2025 18:39:59.812] [Server thread/DEBUG] [Lithium/]: Loaded net.caffeinemc.mods.lithium.neoforge.NeoForgeModCompat@72fdb1bb for service interface net.caffeinemc.mods.lithium.common.services.PlatformModCompat
+[18May2025 18:40:18.709] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Set own game mode to Creative Mode]
+[18May2025 18:41:23.636] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[18May2025 18:44:12.691] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ItemEntity['Lantern'/2965, l='ServerLevel[world]', x=-1768.67, y=-52.44, z=216.45, removed=DISCARDED]
+[18May2025 18:46:23.619] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
