@@ -1225,3 +1225,37 @@ Caused by: com.google.gson.stream.MalformedJsonException: Expected name at line 
 [18May2025 17:09:51.410] [Worker-Main-4/WARN] [lithostitched/]: Couldn't find template pool reference: minecraft:cook_additions_3_pool
 [18May2025 17:09:51.410] [Worker-Main-4/WARN] [lithostitched/]: Couldn't find template pool reference: minecraft:cook_end_1_pool
 [18May2025 17:10:18.648] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: awaconqueso132 has made the advancement [Delightful Decade]
+[18May2025 17:10:41.442] [Worker-Main-5/WARN] [lithostitched/]: Couldn't find template pool reference: minecraft:cook_additions_2_pool
+[18May2025 17:10:41.442] [Worker-Main-5/WARN] [lithostitched/]: Couldn't find template pool reference: minecraft:cook_additions_3_pool
+[18May2025 17:10:41.442] [Worker-Main-5/WARN] [lithostitched/]: Couldn't find template pool reference: minecraft:cook_additions_1_pool
+[18May2025 17:10:41.442] [Worker-Main-5/WARN] [lithostitched/]: Couldn't find template pool reference: minecraft:cook_additions_4_pool
+[18May2025 17:10:41.442] [Worker-Main-5/WARN] [lithostitched/]: Couldn't find template pool reference: minecraft:cook_additions_3_pool
+[18May2025 17:10:41.443] [Worker-Main-5/WARN] [lithostitched/]: Couldn't find template pool reference: minecraft:cook_end_1_pool
+[18May2025 17:10:46.100] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:track}[shape=zo,turn=false,waterlogged=false] but failed at location BlockPos{x=-925, y=110, z=177}
+[18May2025 17:10:46.101] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:track}[shape=zo,turn=false,waterlogged=false] but failed at location BlockPos{x=-925, y=110, z=178}
+[18May2025 17:10:46.101] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:track}[shape=zo,turn=false,waterlogged=false] but failed at location BlockPos{x=-925, y=110, z=181}
+[18May2025 17:10:46.101] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:track}[shape=pd,turn=false,waterlogged=false] but failed at location BlockPos{x=-925, y=110, z=182}
+[18May2025 17:10:46.101] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:track}[shape=zo,turn=false,waterlogged=false] but failed at location BlockPos{x=-925, y=110, z=179}
+[18May2025 17:10:46.101] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:track}[shape=zo,turn=false,waterlogged=false] but failed at location BlockPos{x=-925, y=110, z=180}
+[18May2025 17:10:46.101] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:track}[shape=zo,turn=false,waterlogged=false] but failed at location BlockPos{x=-925, y=110, z=183}
+[18May2025 17:10:46.496] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[18May2025 17:10:46.497] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[18May2025 17:10:46.497] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[18May2025 17:10:46.497] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[18May2025 17:10:46.497] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[18May2025 17:10:46.498] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[18May2025 17:10:46.498] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[18May2025 17:10:46.498] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[18May2025 17:10:46.498] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[18May2025 17:10:46.499] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[18May2025 17:10:54.800] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: awaconqueso132 has made the advancement [Getting an Upgrade]
+[18May2025 17:11:31.336] [Worker-Main-6/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[18May2025 17:11:31.338] [Worker-Main-6/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[18May2025 17:11:31.338] [Worker-Main-6/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[18May2025 17:11:31.339] [Worker-Main-6/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[18May2025 17:11:31.339] [Worker-Main-6/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[18May2025 17:11:31.339] [Worker-Main-6/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[18May2025 17:12:40.740] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: awaconqueso132 has made the advancement [Ice Bucket Challenge]
+[18May2025 17:14:05.118] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: awaconqueso132 has made the advancement [Close Quarters]
+[18May2025 17:14:44.609] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Set own game mode to Creative Mode]
+[18May2025 17:20:16.280] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Set own game mode to Survival Mode]
