@@ -1259,3 +1259,30 @@ Caused by: com.google.gson.stream.MalformedJsonException: Expected name at line 
 [18May2025 17:14:05.118] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: awaconqueso132 has made the advancement [Close Quarters]
 [18May2025 17:14:44.609] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Set own game mode to Creative Mode]
 [18May2025 17:20:16.280] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Set own game mode to Survival Mode]
+[18May2025 17:21:59.015] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[18May2025 17:21:59.016] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[18May2025 17:21:59.016] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[18May2025 17:21:59.017] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[18May2025 17:21:59.017] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[18May2025 17:22:08.401] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[18May2025 17:22:08.402] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[18May2025 17:22:14.639] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-917, y=33, z=529} but found not block entity block Block{minecraft:water}[level=0] at location
+[18May2025 17:22:14.639] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=0] but failed at location BlockPos{x=-917, y=33, z=529}
+[18May2025 17:22:39.072] [Worker-Main-4/WARN] [lithostitched/]: Couldn't find template pool reference: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[18May2025 17:22:39.073] [Worker-Main-4/WARN] [lithostitched/]: Couldn't find template pool reference: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[18May2025 17:22:39.093] [Worker-Main-4/WARN] [lithostitched/]: Couldn't find template pool reference: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[18May2025 17:22:39.093] [Worker-Main-4/WARN] [lithostitched/]: Couldn't find template pool reference: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[18May2025 17:25:43.137] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Set the time to 48000]
+[18May2025 17:25:55.103] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[18May2025 17:25:55.103] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[18May2025 17:25:55.104] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[18May2025 17:25:55.104] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[18May2025 17:25:55.104] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[18May2025 17:25:55.104] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[18May2025 17:25:55.104] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[18May2025 17:25:55.105] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[18May2025 17:25:55.105] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[18May2025 17:25:55.105] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[18May2025 17:25:56.068] [Worker-Main-6/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'Item must not be minecraft:air'
+[18May2025 17:25:56.068] [Worker-Main-6/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'Item must not be minecraft:air'
+[18May2025 17:25:56.069] [Worker-Main-6/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'Item must not be minecraft:air'
