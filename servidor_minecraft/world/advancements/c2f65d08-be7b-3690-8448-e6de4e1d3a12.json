@@ -83,6 +83,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/diamond_sword": {
+    "criteria": {
+      "has_diamond": "2025-05-18 17:38:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jukebox": {
+    "criteria": {
+      "has_diamond": "2025-05-18 17:38:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_nugget": {
     "criteria": {
       "has_gold_ingot": "2025-05-18 17:05:31 +0000"
@@ -107,6 +119,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/diamond_chestplate": {
+    "criteria": {
+      "has_diamond": "2025-05-18 17:38:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/mine_stone": {
     "criteria": {
       "get_stone": "2025-05-18 17:06:17 +0000"
@@ -119,9 +137,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone_torch": {
+    "criteria": {
+      "has_redstone": "2025-05-18 17:38:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/golden_apple": {
     "criteria": {
       "has_gold_ingot": "2025-05-18 17:05:31 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/dry_bamboo_bridge": {
+    "criteria": {
+      "has_planks": "2025-05-18 17:35:19 +0000"
     },
     "done": true
   },
@@ -140,6 +170,12 @@
   "minecraft:recipes/redstone/birch_door": {
     "criteria": {
       "has_planks": "2025-05-18 16:59:29 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/logistics/pulse_extender": {
+    "criteria": {
+      "has_item": "2025-05-18 17:38:08 +0000"
     },
     "done": true
   },
@@ -203,6 +239,12 @@
     },
     "done": true
   },
+  "framedblocks:recipes/building_blocks/framed_lantern": {
+    "criteria": {
+      "hasTorch": "2025-05-18 17:36:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/crafting_table": {
     "criteria": {
       "unlock_right_away": "2025-05-18 16:54:29 +0000"
@@ -224,6 +266,12 @@
   "minecraft:recipes/misc/stick": {
     "criteria": {
       "has_planks": "2025-05-18 16:59:29 +0000"
+    },
+    "done": true
+  },
+  "onlyhammersandexcavators:recipes/tools/redstone_excavator": {
+    "criteria": {
+      "has_redstone": "2025-05-18 17:38:08 +0000"
     },
     "done": true
   },
@@ -275,6 +323,18 @@
     },
     "done": true
   },
+  "mcwbridges:recipes/dry_bamboo_bridge_pier": {
+    "criteria": {
+      "has_planks": "2025-05-18 17:35:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_pickaxe": {
+    "criteria": {
+      "has_diamond": "2025-05-18 17:38:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/birch_wood": {
     "criteria": {
       "has_log": "2025-05-18 16:59:21 +0000"
@@ -290,6 +350,12 @@
   "minecraft:recipes/combat/golden_chestplate": {
     "criteria": {
       "has_gold_ingot": "2025-05-18 17:05:31 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/logistics/pulse_repeater": {
+    "criteria": {
+      "has_item": "2025-05-18 17:38:08 +0000"
     },
     "done": true
   },
@@ -383,9 +449,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/target": {
+    "criteria": {
+      "has_redstone": "2025-05-18 17:38:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_hoe": {
+    "criteria": {
+      "has_diamond": "2025-05-18 17:38:11 +0000"
+    },
+    "done": true
+  },
   "onlyhammersandexcavators:recipes/tools/wooden_hammer": {
     "criteria": {
       "has_oak_log": "2025-05-18 16:59:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_shovel": {
+    "criteria": {
+      "has_diamond": "2025-05-18 17:38:11 +0000"
     },
     "done": true
   },
@@ -398,6 +482,12 @@
   "regions_unexplored:recipes/transportation/kapok_boat": {
     "criteria": {
       "in_water": "2025-05-18 16:57:14 +0000"
+    },
+    "done": true
+  },
+  "onlyhammersandexcavators:recipes/tools/redstone_hammer": {
+    "criteria": {
+      "has_redstone": "2025-05-18 17:38:08 +0000"
     },
     "done": true
   },
@@ -440,6 +530,12 @@
   "pfm:grant_book_on_first_join": {
     "criteria": {
       "tick": "2025-05-18 16:54:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/compass": {
+    "criteria": {
+      "has_redstone": "2025-05-18 17:38:08 +0000"
     },
     "done": true
   },
@@ -606,6 +702,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/diamond_helmet": {
+    "criteria": {
+      "has_diamond": "2025-05-18 17:38:11 +0000"
+    },
+    "done": true
+  },
   "lootr:1barrel": {
     "criteria": {
       "opened_barrel": "2025-05-18 17:09:06 +0000"
@@ -627,6 +729,12 @@
   "advancednetherite:recipes/misc/netherite_gold_ingot": {
     "criteria": {
       "has_TagKey[minecraft:item / c:ingots/gold]": "2025-05-18 17:05:31 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/bamboo_bridge": {
+    "criteria": {
+      "has_planks": "2025-05-18 17:35:19 +0000"
     },
     "done": true
   },
@@ -682,6 +790,12 @@
   "minecraft:recipes/combat/golden_sword": {
     "criteria": {
       "has_gold_ingot": "2025-05-18 17:05:31 +0000"
+    },
+    "done": true
+  },
+  "advancednetherite:recipes/misc/netherite_diamond_ingot": {
+    "criteria": {
+      "has_TagKey[minecraft:item / c:gems/diamond]": "2025-05-18 17:38:11 +0000"
     },
     "done": true
   },
@@ -745,6 +859,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone_block": {
+    "criteria": {
+      "has_redstone": "2025-05-18 17:38:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/wooden_sword": {
     "criteria": {
       "has_stick": "2025-05-18 16:59:38 +0000"
@@ -769,15 +889,39 @@
     },
     "done": true
   },
+  "mcwbridges:recipes/bamboo_bridge_pier": {
+    "criteria": {
+      "has_planks": "2025-05-18 17:35:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/barrel": {
     "criteria": {
       "has_planks": "2025-05-18 16:59:29 +0000"
     },
     "done": true
   },
+  "mcwbridges:recipes/bridge_torch": {
+    "criteria": {
+      "has_planks": "2025-05-18 17:36:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2025-05-18 17:06:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diamond_block": {
+    "criteria": {
+      "has_diamond": "2025-05-18 17:38:11 +0000"
+    },
+    "done": true
+  },
+  "mcwdoors:recipes/bamboo": {
+    "criteria": {
+      "has_wood": "2025-05-18 17:35:19 +0000"
     },
     "done": true
   },
@@ -826,6 +970,12 @@
   "livingthings:recipes/lexicon": {
     "criteria": {
       "has_book": "2025-05-18 17:05:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2025-05-18 17:38:11 +0000"
     },
     "done": true
   },
@@ -908,6 +1058,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/combat/diamond_knife": {
+    "criteria": {
+      "has_diamond": "2025-05-18 17:38:11 +0000"
+    },
+    "done": true
+  },
   "lootr:1chest": {
     "criteria": {
       "opened_chest": "2025-05-18 17:05:21 +0000"
@@ -938,6 +1094,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/diamond_leggings": {
+    "criteria": {
+      "has_diamond": "2025-05-18 17:38:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_nugget_from_smelting": {
     "criteria": {
       "has_iron_sword": "2025-05-18 16:59:02 +0000"
@@ -959,6 +1121,12 @@
   "pfm:recipes/furniture/iron_microwave": {
     "criteria": {
       "has_iron_ingot": "2025-05-18 16:58:42 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/logistics/pulse_timer": {
+    "criteria": {
+      "has_item": "2025-05-18 17:38:08 +0000"
     },
     "done": true
   },
@@ -1040,6 +1208,18 @@
     },
     "done": true
   },
+  "createaddition:recipes/redstone/crafting/redstone_relay": {
+    "criteria": {
+      "has_redstone": "2025-05-18 17:38:08 +0000"
+    },
+    "done": true
+  },
+  "onlyhammersandexcavators:recipes/tools/diamond_excavator": {
+    "criteria": {
+      "has_diamond": "2025-05-18 17:38:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_axe": {
     "criteria": {
       "has_cobblestone": "2025-05-18 17:06:17 +0000"
@@ -1082,6 +1262,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/clock": {
+    "criteria": {
+      "has_redstone": "2025-05-18 17:38:08 +0000"
+    },
+    "done": true
+  },
+  "repurposed_structures:temples": {
+    "criteria": {
+      "in_temple_taiga": "2025-05-18 17:37:12 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/combat/golden_helmet": {
     "criteria": {
       "has_gold_ingot": "2025-05-18 17:05:31 +0000"
@@ -1109,6 +1301,12 @@
   "minecraft:story/smelt_iron": {
     "criteria": {
       "iron": "2025-05-18 16:58:42 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/raw_redstone_block": {
+    "criteria": {
+      "has_redstone": "2025-05-18 17:38:08 +0000"
     },
     "done": true
   },
@@ -1214,6 +1412,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/logistics/powered_latch": {
+    "criteria": {
+      "has_item": "2025-05-18 17:38:08 +0000"
+    },
+    "done": true
+  },
   "advancednetherite:recipes/misc/netherite_emerald_ingot": {
     "criteria": {
       "has_TagKey[minecraft:item / c:gems/emerald]": "2025-05-18 17:09:20 +0000"
@@ -1235,6 +1439,12 @@
   "regions_unexplored:recipes/transportation/oak_boat": {
     "criteria": {
       "in_water": "2025-05-18 16:57:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/note_block": {
+    "criteria": {
+      "has_redstone": "2025-05-18 17:38:08 +0000"
     },
     "done": true
   },
@@ -1334,6 +1544,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/diamond_boots": {
+    "criteria": {
+      "has_diamond": "2025-05-18 17:38:11 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/basic_shower_head": {
     "criteria": {
       "has_water_bucket": "2025-05-18 17:09:08 +0000"
@@ -1361,6 +1577,12 @@
   "minecraft:recipes/decorations/torch": {
     "criteria": {
       "has_stone_pickaxe": "2025-05-18 17:10:54 +0000"
+    },
+    "done": true
+  },
+  "onlyhammersandexcavators:recipes/tools/diamond_hammer": {
+    "criteria": {
+      "has_diamond": "2025-05-18 17:38:11 +0000"
     },
     "done": true
   },
@@ -1393,6 +1615,12 @@
       "log_spam_fixer": "2025-05-18 16:54:29 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/building_blocks/spruce_planks": {
+    "criteria": {
+      "has_logs": "2025-05-18 17:37:12 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/transportation/dark_oak_chest_boat": {
     "criteria": {
@@ -1468,12 +1696,18 @@
   },
   "regions_unexplored:regions_explored": {
     "criteria": {
+      "mauve_hills": "2025-05-18 17:30:33 +0000",
       "pine_taiga": "2025-05-18 16:54:29 +0000",
       "bayou": "2025-05-18 17:10:40 +0000",
       "towering_cliffs": "2025-05-18 17:01:47 +0000",
+      "old_growth_bayou": "2025-05-18 17:40:02 +0000",
       "grassy_beach": "2025-05-18 17:23:01 +0000",
+      "bamboo_forest": "2025-05-18 17:35:07 +0000",
+      "magnolia_highlands": "2025-05-18 17:32:27 +0000",
       "marsh": "2025-05-18 17:14:36 +0000",
-      "lupine_plains": "2025-05-18 17:08:30 +0000"
+      "lupine_plains": "2025-05-18 17:08:30 +0000",
+      "rocky_meadow": "2025-05-18 17:27:06 +0000",
+      "blackwood_taiga": "2025-05-18 17:36:52 +0000"
     },
     "done": false
   },
@@ -1543,9 +1777,21 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/logistics/powered_toggle_latch": {
+    "criteria": {
+      "has_item": "2025-05-18 17:38:08 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/transportation/maple_chest_boat": {
     "criteria": {
       "has_boat": "2025-05-18 17:07:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dropper": {
+    "criteria": {
+      "has_redstone": "2025-05-18 17:38:08 +0000"
     },
     "done": true
   },
@@ -1563,12 +1809,18 @@
   },
   "regions_unexplored:pioneer": {
     "criteria": {
+      "mauve_hills": "2025-05-18 17:30:33 +0000",
       "pine_taiga": "2025-05-18 16:54:29 +0000",
       "bayou": "2025-05-18 17:10:40 +0000",
       "towering_cliffs": "2025-05-18 17:01:47 +0000",
+      "old_growth_bayou": "2025-05-18 17:40:02 +0000",
       "grassy_beach": "2025-05-18 17:23:01 +0000",
+      "bamboo_forest": "2025-05-18 17:35:07 +0000",
+      "magnolia_highlands": "2025-05-18 17:32:27 +0000",
       "marsh": "2025-05-18 17:14:36 +0000",
-      "lupine_plains": "2025-05-18 17:08:30 +0000"
+      "lupine_plains": "2025-05-18 17:08:30 +0000",
+      "rocky_meadow": "2025-05-18 17:27:06 +0000",
+      "blackwood_taiga": "2025-05-18 17:36:52 +0000"
     },
     "done": false
   },
@@ -1635,6 +1887,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/stick_from_bamboo_item": {
+    "criteria": {
+      "has_bamboo": "2025-05-18 17:35:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobblestone_stairs_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2025-05-18 17:06:17 +0000"
@@ -1665,6 +1923,12 @@
     },
     "done": false
   },
+  "minecraft:recipes/building_blocks/bamboo_block": {
+    "criteria": {
+      "has_bamboo": "2025-05-18 17:35:19 +0000"
+    },
+    "done": true
+  },
   "another_furniture:recipes/birch_table": {
     "criteria": {
       "has_planks": "2025-05-18 16:59:29 +0000"
@@ -1677,9 +1941,21 @@
     },
     "done": true
   },
+  "createaddition:recipes/misc/crafting/festive_spool": {
+    "criteria": {
+      "has_redstone": "2025-05-18 17:38:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/enchanting_table": {
     "criteria": {
       "has_obsidian": "2025-05-18 17:12:40 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/rose_quartz": {
+    "criteria": {
+      "has_item": "2025-05-18 17:38:08 +0000"
     },
     "done": true
   },
@@ -1713,6 +1989,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/diamond_axe": {
+    "criteria": {
+      "has_diamond": "2025-05-18 17:38:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/scaffolding": {
+    "criteria": {
+      "has_bamboo": "2025-05-18 17:35:19 +0000"
+    },
+    "done": true
+  },
   "mcwwindows:recipes/metal": {
     "criteria": {
       "has_wood": "2025-05-18 16:58:42 +0000"
@@ -1728,6 +2016,12 @@
   "another_furniture:recipes/birch_drawer": {
     "criteria": {
       "has_planks": "2025-05-18 16:59:38 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/redstone_bud": {
+    "criteria": {
+      "has_redstone": "2025-05-18 17:38:08 +0000"
     },
     "done": true
   },
@@ -1776,6 +2070,12 @@
   "minecraft:recipes/combat/golden_leggings": {
     "criteria": {
       "has_gold_ingot": "2025-05-18 17:05:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/piston": {
+    "criteria": {
+      "has_redstone": "2025-05-18 17:38:08 +0000"
     },
     "done": true
   },
