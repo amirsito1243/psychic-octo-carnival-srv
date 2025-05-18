@@ -1,0 +1,15 @@
+{
+  "pools": [
+    {
+      "rolls": 1.0,
+      "bonus_rolls": 0.0,
+      "name": "green_bioshroom_regions_unexplored_table_modern_dinner",
+      "entries": [
+        {
+          "name": "pfm:green_bioshroom_regions_unexplored_table_modern_dinner",
+          "type": "minecraft:item"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "pools": [
+    {
+      "rolls": 1.0,
+      "bonus_rolls": 0.0,
+      "name": "coal_block_rechiseled_table_natural",
+      "entries": [
+        {
+          "name": "pfm:coal_block_rechiseled_table_natural",
+          "type": "minecraft:item"
+        }
+      ]
+    }
+  ]
+}

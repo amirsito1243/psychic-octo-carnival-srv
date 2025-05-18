@@ -1,0 +1,15 @@
+{
+  "pools": [
+    {
+      "rolls": 1.0,
+      "bonus_rolls": 0.0,
+      "name": "coal_block_rechiseled_coffee_table_classic",
+      "entries": [
+        {
+          "name": "pfm:coal_block_rechiseled_coffee_table_classic",
+          "type": "minecraft:item"
+        }
+      ]
+    }
+  ]
+}

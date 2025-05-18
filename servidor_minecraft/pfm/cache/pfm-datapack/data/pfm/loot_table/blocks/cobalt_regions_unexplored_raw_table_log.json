@@ -1,0 +1,15 @@
+{
+  "pools": [
+    {
+      "rolls": 1.0,
+      "bonus_rolls": 0.0,
+      "name": "cobalt_regions_unexplored_raw_table_log",
+      "entries": [
+        {
+          "name": "pfm:cobalt_regions_unexplored_raw_table_log",
+          "type": "minecraft:item"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "pools": [
+    {
+      "rolls": 1.0,
+      "bonus_rolls": 0.0,
+      "name": "coal_block_rechiseled_kitchen_cabinet",
+      "entries": [
+        {
+          "name": "pfm:coal_block_rechiseled_kitchen_cabinet",
+          "type": "minecraft:item"
+        }
+      ]
+    }
+  ]
+}

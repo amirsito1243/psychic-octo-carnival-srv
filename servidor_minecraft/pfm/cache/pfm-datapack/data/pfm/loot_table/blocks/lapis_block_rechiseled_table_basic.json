@@ -1,0 +1,15 @@
+{
+  "pools": [
+    {
+      "rolls": 1.0,
+      "bonus_rolls": 0.0,
+      "name": "lapis_block_rechiseled_table_basic",
+      "entries": [
+        {
+          "name": "pfm:lapis_block_rechiseled_table_basic",
+          "type": "minecraft:item"
+        }
+      ]
+    }
+  ]
+}

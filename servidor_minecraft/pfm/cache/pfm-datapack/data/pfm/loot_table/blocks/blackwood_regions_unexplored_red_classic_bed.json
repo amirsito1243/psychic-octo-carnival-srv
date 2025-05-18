@@ -1,0 +1,24 @@
+{
+  "pools": [
+    {
+      "rolls": 1.0,
+      "bonus_rolls": 0.0,
+      "name": "blackwood_regions_unexplored_red_classic_bed",
+      "entries": [
+        {
+          "conditions": [
+            {
+              "block": "pfm:blackwood_regions_unexplored_red_classic_bed",
+              "properties": {
+                "part": "head"
+              },
+              "condition": "minecraft:block_state_property"
+            }
+          ],
+          "name": "pfm:blackwood_regions_unexplored_red_classic_bed",
+          "type": "minecraft:item"
+        }
+      ]
+    }
+  ]
+}

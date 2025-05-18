@@ -1,0 +1,15 @@
+{
+  "pools": [
+    {
+      "rolls": 1.0,
+      "bonus_rolls": 0.0,
+      "name": "brimwood_regions_unexplored_simple_stool",
+      "entries": [
+        {
+          "name": "pfm:brimwood_regions_unexplored_simple_stool",
+          "type": "minecraft:item"
+        }
+      ]
+    }
+  ]
+}

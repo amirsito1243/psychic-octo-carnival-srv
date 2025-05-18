@@ -1,0 +1,15 @@
+{
+  "pools": [
+    {
+      "rolls": 1.0,
+      "bonus_rolls": 0.0,
+      "name": "lapis_block_rechiseled_coffee_table_modern",
+      "entries": [
+        {
+          "name": "pfm:lapis_block_rechiseled_coffee_table_modern",
+          "type": "minecraft:item"
+        }
+      ]
+    }
+  ]
+}
