@@ -1096,3 +1096,17 @@ Caused by: com.google.gson.stream.MalformedJsonException: Expected name at line 
 [18May2025 18:15:44.004] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=0] but failed at location BlockPos{x=-1119, y=23, z=1317}
 [18May2025 18:15:44.004] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-1107, y=23, z=1319} but found not block entity block Block{minecraft:water}[level=1] at location
 [18May2025 18:15:44.005] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=1] but failed at location BlockPos{x=-1107, y=23, z=1319}
+[18May2025 18:17:10.642] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: awaconqueso132 has made the advancement [Monster Hunter]
+[18May2025 18:18:52.191] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Set own game mode to Spectator Mode]
+[18May2025 18:18:55.812] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Set own game mode to Creative Mode]
+[18May2025 18:20:36.369] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Set own game mode to Survival Mode]
+[18May2025 18:20:43.180] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-770, y=-52, z=899}
+[18May2025 18:20:48.864] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Set own game mode to Creative Mode]
+[18May2025 18:20:50.309] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Set own game mode to Survival Mode]
+[18May2025 18:21:00.986] [Worker-Main-4/WARN] [lithostitched/]: Couldn't find template pool reference: minecraft:cook_additions_2_pool
+[18May2025 18:21:00.986] [Worker-Main-4/WARN] [lithostitched/]: Couldn't find template pool reference: minecraft:cook_additions_3_pool
+[18May2025 18:21:00.986] [Worker-Main-4/WARN] [lithostitched/]: Couldn't find template pool reference: minecraft:cook_additions_1_pool
+[18May2025 18:21:00.986] [Worker-Main-4/WARN] [lithostitched/]: Couldn't find template pool reference: minecraft:cook_additions_4_pool
+[18May2025 18:21:00.986] [Worker-Main-4/WARN] [lithostitched/]: Couldn't find template pool reference: minecraft:cook_additions_3_pool
+[18May2025 18:21:00.987] [Worker-Main-4/WARN] [lithostitched/]: Couldn't find template pool reference: minecraft:cook_end_1_pool
+[18May2025 18:23:47.730] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: awaconqueso132 moved wrongly!
