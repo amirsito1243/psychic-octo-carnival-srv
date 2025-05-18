@@ -1180,3 +1180,48 @@ Caused by: com.google.gson.stream.MalformedJsonException: Expected name at line 
 [18May2025 16:59:04.024] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: awaconqueso132 has made the advancement [Suit Up]
 [18May2025 16:59:13.220] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: awaconqueso132 has made the advancement [Isn't It Iron Pick]
 [18May2025 16:59:29.433] [Server thread/INFO] [fastsuite/]: Constructed recipe list for minecraft:crafting in 5.177 ms. 4917/5091 recipes are parallelized.
+[18May2025 17:00:16.934] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Set own game mode to Creative Mode]
+[18May2025 17:00:21.790] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Set own game mode to Survival Mode]
+[18May2025 17:00:56.243] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Set own game mode to Creative Mode]
+[18May2025 17:01:01.844] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Set own game mode to Survival Mode]
+[18May2025 17:01:09.440] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Set own game mode to Creative Mode]
+[18May2025 17:01:13.195] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Set own game mode to Survival Mode]
+[18May2025 17:01:14.362] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: awaconqueso132 has made the advancement [Sweet Dreams]
+[18May2025 17:01:44.749] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[18May2025 17:01:44.752] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[18May2025 17:01:44.852] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[18May2025 17:01:44.865] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[18May2025 17:04:49.260] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[18May2025 17:04:49.261] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[18May2025 17:04:49.261] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[18May2025 17:04:49.261] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[18May2025 17:04:49.262] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[18May2025 17:04:49.262] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[18May2025 17:04:49.262] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[18May2025 17:04:49.263] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[18May2025 17:04:49.263] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[18May2025 17:04:49.263] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[18May2025 17:05:21.113] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: awaconqueso132 has made the advancement ['X' Marks the Spot]
+[18May2025 17:06:17.526] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: awaconqueso132 has made the advancement [Stone Age]
+[18May2025 17:07:12.175] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Mason'/4624, l='ServerLevel[world]', x=-520.30, y=25.00, z=334.49] died, message: 'Mason suffocated in a wall'
+[18May2025 17:08:03.945] [Worker-Main-6/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'Item must not be minecraft:air'
+[18May2025 17:08:25.338] [Worker-Main-6/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[18May2025 17:08:25.339] [Worker-Main-6/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[18May2025 17:08:25.339] [Worker-Main-6/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[18May2025 17:08:37.035] [Worker-Main-5/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'Item must not be minecraft:air'
+[18May2025 17:08:37.035] [Worker-Main-5/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'Item must not be minecraft:air'
+[18May2025 17:09:06.832] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: awaconqueso132 has made the advancement [Barrel Booty]
+[18May2025 17:09:11.568] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: awaconqueso132 has made the advancement [World Tier: Haven]
+[18May2025 17:09:41.212] [Worker-Main-5/WARN] [lithostitched/]: Couldn't find template pool reference: minecraft:cook_additions_2_pool
+[18May2025 17:09:41.212] [Worker-Main-5/WARN] [lithostitched/]: Couldn't find template pool reference: minecraft:cook_additions_3_pool
+[18May2025 17:09:41.213] [Worker-Main-5/WARN] [lithostitched/]: Couldn't find template pool reference: minecraft:cook_additions_1_pool
+[18May2025 17:09:41.213] [Worker-Main-5/WARN] [lithostitched/]: Couldn't find template pool reference: minecraft:cook_additions_4_pool
+[18May2025 17:09:41.213] [Worker-Main-5/WARN] [lithostitched/]: Couldn't find template pool reference: minecraft:cook_additions_3_pool
+[18May2025 17:09:41.214] [Worker-Main-5/WARN] [lithostitched/]: Couldn't find template pool reference: minecraft:cook_end_1_pool
+[18May2025 17:09:51.409] [Worker-Main-4/WARN] [lithostitched/]: Couldn't find template pool reference: minecraft:cook_additions_2_pool
+[18May2025 17:09:51.409] [Worker-Main-4/WARN] [lithostitched/]: Couldn't find template pool reference: minecraft:cook_additions_3_pool
+[18May2025 17:09:51.409] [Worker-Main-4/WARN] [lithostitched/]: Couldn't find template pool reference: minecraft:cook_additions_1_pool
+[18May2025 17:09:51.410] [Worker-Main-4/WARN] [lithostitched/]: Couldn't find template pool reference: minecraft:cook_additions_4_pool
+[18May2025 17:09:51.410] [Worker-Main-4/WARN] [lithostitched/]: Couldn't find template pool reference: minecraft:cook_additions_3_pool
+[18May2025 17:09:51.410] [Worker-Main-4/WARN] [lithostitched/]: Couldn't find template pool reference: minecraft:cook_end_1_pool
+[18May2025 17:10:18.648] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: awaconqueso132 has made the advancement [Delightful Decade]
