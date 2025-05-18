@@ -2163,6 +2163,12 @@
     },
     "done": true
   },
+  "lootr:50loot": {
+    "criteria": {
+      "opened_50": "2025-05-18 18:09:03 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/fried_egg_from_smoking": {
     "criteria": {
       "fried_egg": "2025-05-18 17:59:39 +0000"
@@ -2204,6 +2210,12 @@
       "has_planks": "2025-05-18 18:00:46 +0000"
     },
     "done": true
+  },
+  "repurposed_structures:pyramids": {
+    "criteria": {
+      "in_pyramid_flower_forest": "2025-05-18 18:08:34 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/redstone/spruce_trapdoor": {
     "criteria": {

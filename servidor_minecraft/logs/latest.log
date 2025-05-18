@@ -1019,3 +1019,80 @@ Caused by: com.google.gson.stream.MalformedJsonException: Expected name at line 
 [18May2025 18:01:56.670] [Worker-Main-4/WARN] [lithostitched/]: Couldn't find template pool reference: minecraft:cook_additions_4_pool
 [18May2025 18:01:56.670] [Worker-Main-4/WARN] [lithostitched/]: Couldn't find template pool reference: minecraft:cook_additions_3_pool
 [18May2025 18:01:56.670] [Worker-Main-4/WARN] [lithostitched/]: Couldn't find template pool reference: minecraft:cook_end_1_pool
+[18May2025 18:07:47.391] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: awaconqueso132 moved wrongly!
+[18May2025 18:08:41.678] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Set own game mode to Spectator Mode]
+[18May2025 18:08:49.180] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Set own game mode to Creative Mode]
+[18May2025 18:08:58.163] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Applied effect Night Vision to awaconqueso132]
+[18May2025 18:09:03.944] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: awaconqueso132 has made the advancement [Half-Century]
+[18May2025 18:09:33.342] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Set own game mode to Spectator Mode]
+[18May2025 18:09:52.689] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Set own game mode to Survival Mode]
+[18May2025 18:11:21.715] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Set the weather to clear]
+[18May2025 18:12:09.520] [Worker-Main-3/WARN] [lithostitched/]: Couldn't find template pool reference: minecraft:cook_additions_2_pool
+[18May2025 18:12:09.521] [Worker-Main-3/WARN] [lithostitched/]: Couldn't find template pool reference: minecraft:cook_additions_3_pool
+[18May2025 18:12:09.521] [Worker-Main-3/WARN] [lithostitched/]: Couldn't find template pool reference: minecraft:cook_additions_1_pool
+[18May2025 18:12:09.522] [Worker-Main-3/WARN] [lithostitched/]: Couldn't find template pool reference: minecraft:cook_additions_4_pool
+[18May2025 18:12:09.523] [Worker-Main-3/WARN] [lithostitched/]: Couldn't find template pool reference: minecraft:cook_additions_3_pool
+[18May2025 18:12:09.524] [Worker-Main-3/WARN] [lithostitched/]: Couldn't find template pool reference: minecraft:cook_end_1_pool
+[18May2025 18:12:50.162] [Worker-Main-3/WARN] [lithostitched/]: Couldn't find template pool reference: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[18May2025 18:12:50.163] [Worker-Main-3/WARN] [lithostitched/]: Couldn't find template pool reference: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[18May2025 18:12:50.211] [Worker-Main-3/WARN] [lithostitched/]: Couldn't find template pool reference: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[18May2025 18:12:50.212] [Worker-Main-3/WARN] [lithostitched/]: Couldn't find template pool reference: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[18May2025 18:13:36.225] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[18May2025 18:13:36.226] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[18May2025 18:13:36.226] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[18May2025 18:13:36.226] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[18May2025 18:13:36.227] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[18May2025 18:13:36.227] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[18May2025 18:13:36.227] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[18May2025 18:13:36.227] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[18May2025 18:13:36.228] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[18May2025 18:13:36.228] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[18May2025 18:13:57.180] [Worker-Main-4/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1185, y=-1, z=751}
+[18May2025 18:14:12.527] [Worker-Main-4/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'Unknown registry key in ResourceKey[minecraft:root / minecraft:item]: aquaculture:box_turtle'
+[18May2025 18:14:12.527] [Worker-Main-4/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'Unknown registry key in ResourceKey[minecraft:root / minecraft:item]: aquaculture:turtle_soup'
+[18May2025 18:14:12.528] [Worker-Main-4/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'Unknown registry key in ResourceKey[minecraft:root / minecraft:item]: aquaculture:box_turtle'
+[18May2025 18:14:12.529] [Worker-Main-4/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:arrau_turtle
+[18May2025 18:14:12.529] [Worker-Main-4/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'Unknown registry key in ResourceKey[minecraft:root / minecraft:item]: aquaculture:box_turtle'
+[18May2025 18:14:12.529] [Worker-Main-4/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'Unknown registry key in ResourceKey[minecraft:root / minecraft:item]: aquaculture:starshell_turtle'
+[18May2025 18:14:12.530] [Worker-Main-4/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'Unknown registry key in ResourceKey[minecraft:root / minecraft:item]: aquaculture:arrau_turtle'
+[18May2025 18:14:12.530] [Worker-Main-4/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:box_turtle
+[18May2025 18:14:12.530] [Worker-Main-4/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:box_turtle
+[18May2025 18:14:12.530] [Worker-Main-4/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:box_turtle
+[18May2025 18:14:12.530] [Worker-Main-4/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:box_turtle
+[18May2025 18:14:12.531] [Worker-Main-4/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:box_turtle
+[18May2025 18:14:12.531] [Worker-Main-4/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:box_turtle
+[18May2025 18:14:12.531] [Worker-Main-4/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:box_turtle
+[18May2025 18:14:12.531] [Worker-Main-4/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:arrau_turtle
+[18May2025 18:14:12.531] [Worker-Main-4/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:arrau_turtle
+[18May2025 18:14:12.531] [Worker-Main-4/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:arrau_turtle
+[18May2025 18:14:12.532] [Worker-Main-4/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:arrau_turtle
+[18May2025 18:14:50.951] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[18May2025 18:14:50.966] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[18May2025 18:14:51.000] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[18May2025 18:14:51.086] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[18May2025 18:14:54.898] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[18May2025 18:14:55.514] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[18May2025 18:14:57.969] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[18May2025 18:14:57.983] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[18May2025 18:14:58.191] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[18May2025 18:15:00.955] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[18May2025 18:15:01.271] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[18May2025 18:15:01.321] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[18May2025 18:15:01.322] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[18May2025 18:15:01.335] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[18May2025 18:15:01.335] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[18May2025 18:15:05.089] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[18May2025 18:15:05.561] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[18May2025 18:15:11.037] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[18May2025 18:15:23.646] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[18May2025 18:15:23.647] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[18May2025 18:15:23.647] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[18May2025 18:15:23.647] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[18May2025 18:15:23.648] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[18May2025 18:15:23.648] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[18May2025 18:15:23.667] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[18May2025 18:15:23.668] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[18May2025 18:15:44.003] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-1119, y=23, z=1317} but found not block entity block Block{minecraft:water}[level=0] at location
+[18May2025 18:15:44.004] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=0] but failed at location BlockPos{x=-1119, y=23, z=1317}
+[18May2025 18:15:44.004] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-1107, y=23, z=1319} but found not block entity block Block{minecraft:water}[level=1] at location
+[18May2025 18:15:44.005] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=1] but failed at location BlockPos{x=-1107, y=23, z=1319}
