@@ -6706,3 +6706,12 @@ io.netty.incubator.codec.quic.QuicClosedChannelException: null
 [25May2025 17:34:43.227] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Set own game mode to Creative Mode]
 [25May2025 17:34:52.293] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Set own game mode to Survival Mode]
 [25May2025 17:35:25.517] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: braixen97 has made the advancement [Best Friends Forever]
+[25May2025 17:38:09.083] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Set own game mode to Creative Mode]
+[25May2025 17:38:15.067] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Set own game mode to Survival Mode]
+[25May2025 17:44:05.790] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <awaconqueso132> trading depot
+[25May2025 17:45:24.621] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Set own game mode to Creative Mode]
+[25May2025 17:45:35.026] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Gamerule announceAdvancements is now set to: false]
+[25May2025 17:45:35.603] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Set own game mode to Survival Mode]
+[25May2025 17:45:45.819] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Gamerule announceAdvancements is now set to: true]
+[25May2025 17:46:57.683] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Set own game mode to Creative Mode]
+[25May2025 17:47:04.653] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Set own game mode to Survival Mode]
