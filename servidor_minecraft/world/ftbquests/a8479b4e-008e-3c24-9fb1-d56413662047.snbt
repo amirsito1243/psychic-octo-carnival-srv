@@ -1,0 +1,22 @@
+{
+	version: 1
+	uuid: "a8479b4e008e3c249fb1d56413662047"
+	name: "braixen97#a8479b4e"
+	lock: false
+	rewards_blocked: false
+	task_progress: {
+		3BD361F571CA80B5: 1
+	}
+	started: {
+		497D9A5F750C0D7E: 1748121129197L
+		5FCF1117B8C403BE: 1748121129197L
+		3BD361F571CA80B5: 1748121129197L
+		0000000000000001: 1748121129197L
+	}
+	completed: {
+		5FCF1117B8C403BE: 1748121129197L
+		3BD361F571CA80B5: 1748121129197L
+	}
+	claimed_rewards: { }
+	player_data: { }
+}

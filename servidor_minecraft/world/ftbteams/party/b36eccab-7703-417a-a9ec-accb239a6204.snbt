@@ -1,0 +1,22 @@
+{
+	id: "b36eccab-7703-417a-a9ec-accb239a6204"
+	type: "party"
+	owner: "c2f65d08-be7b-3690-8448-e6de4e1d3a12"
+	ranks: {
+		a8479b4e-008e-3c24-9fb1-d56413662047: "member"
+		c2f65d08-be7b-3690-8448-e6de4e1d3a12: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "wea"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FFEC59"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1748122673202L, text: "{\"color\":\"yellow\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"awaconqueso132\"}]}" }
+		{ from: "c2f65d08-be7b-3690-8448-e6de4e1d3a12", date: 1748122687178L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.invited\",\"with\":[{\"color\":\"yellow\",\"text\":\"braixen97\"}]}" }
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1748122690582L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"braixen97\"}]}" }
+	]
+	extra: { }
+}

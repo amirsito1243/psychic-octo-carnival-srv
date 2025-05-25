@@ -1,3 +1,4 @@
+
 ["Jetpack Height Restriction"]
 	brassJetpackMaxHeight = 28.0
 	andesiteJetpackMaxHeight = 18.0
@@ -30,3 +31,4 @@
 	enableMagnetDroneModule = true
 	enableVaultDroneModule = true
 	MagnetModuleBlockLimitation = false
+
