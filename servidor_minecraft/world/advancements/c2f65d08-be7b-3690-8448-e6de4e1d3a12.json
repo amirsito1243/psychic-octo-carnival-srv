@@ -259,7 +259,10 @@
   },
   "biomeswevegone:biomeswevegone/adventure/oh_the_biomes_weve_gone": {
     "criteria": {
-      "biomeswevegone:allium_shrubland": "2025-05-24 21:10:38 +0000"
+      "biomeswevegone:ironwood_gour": "2025-05-25 18:34:13 +0000",
+      "biomeswevegone:prairie": "2025-05-25 18:27:12 +0000",
+      "biomeswevegone:allium_shrubland": "2025-05-24 21:10:38 +0000",
+      "biomeswevegone:baobab_savanna": "2025-05-25 18:34:16 +0000"
     },
     "done": false
   },
@@ -377,6 +380,7 @@
     "criteria": {
       "minecraft:river": "2025-05-25 18:10:14 +0000",
       "minecraft:dripstone_caves": "2025-05-24 21:38:55 +0000",
+      "autumnity:autumnity:maple_forest": "2025-05-25 18:34:07 +0000",
       "minecraft:old_growth_birch_forest": "2025-05-25 17:58:22 +0000"
     },
     "done": false
@@ -436,6 +440,7 @@
       "minecraft:spider": "2025-05-25 17:52:37 +0000",
       "minecraft:creeper": "2025-05-25 18:04:45 +0000",
       "caverns_and_chasms:peeper": "2025-05-25 17:55:06 +0000",
+      "quark:forgotten": "2025-05-25 18:27:19 +0000",
       "minecraft:cave_spider": "2025-05-25 18:01:01 +0000",
       "caverns_and_chasms:mime": "2025-05-25 18:06:22 +0000",
       "minecraft:zombie": "2025-05-25 17:45:37 +0000",
@@ -476,6 +481,30 @@
   "apotheosis:affix/root": {
     "criteria": {
       "sword": "2025-05-25 18:20:19 +0000"
+    },
+    "done": true
+  },
+  "quark:get_forgotten_hat": {
+    "criteria": {
+      "get_forgotten_hat": "2025-05-25 18:27:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_helmet": "2025-05-25 18:29:15 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:affix/rare": {
+    "criteria": {
+      "sword": "2025-05-25 18:29:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-05-25 18:31:27 +0000"
     },
     "done": true
   },

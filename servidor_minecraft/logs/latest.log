@@ -4498,3 +4498,44 @@ io.netty.incubator.codec.quic.QuicClosedChannelException: null
 [25May2025 18:20:19.600] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: awaconqueso132 has made the advancement [Apothic Affixes]
 [25May2025 18:21:42.255] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Set own game mode to Creative Mode]
 [25May2025 18:21:56.677] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Set own game mode to Survival Mode]
+[25May2025 18:27:20.708] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: awaconqueso132 has reached the goal [This Belongs in a Museum]
+[25May2025 18:27:38.723] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Applied enchantment Unbreaking VIII to awaconqueso132's item]
+[25May2025 18:28:06.699] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Set own game mode to Creative Mode]
+[25May2025 18:28:09.568] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Set own game mode to Survival Mode]
+[25May2025 18:29:15.398] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: awaconqueso132 has reached the goal [Worthy Equipment]
+[25May2025 18:29:15.399] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: awaconqueso132 has made the advancement [Suit Up]
+[25May2025 18:30:55.446] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Set own game mode to Creative Mode]
+[25May2025 18:31:13.564] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=119, y=-46, z=154} BlockPos{x=54, y=-53, z=186}
+[25May2025 18:31:14.059] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=119, y=-46, z=154} BlockPos{x=53, y=-54, z=187}
+[25May2025 18:31:27.145] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: awaconqueso132 has made the advancement [Ice Bucket Challenge]
+[25May2025 18:32:54.641] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Set own game mode to Survival Mode]
+[25May2025 18:34:17.674] [Worker-Main-2/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=454, y=71, z=-7}
+[25May2025 18:34:17.675] [Worker-Main-2/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=454, y=71, z=-7}
+[25May2025 18:34:17.676] [Worker-Main-2/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id guardvillagers:guard
+[25May2025 18:34:17.698] [Worker-Main-3/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=454, y=71, z=8}
+[25May2025 18:34:17.699] [Worker-Main-3/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=454, y=71, z=8}
+[25May2025 18:34:17.699] [Worker-Main-3/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id guardvillagers:guard
+[25May2025 18:34:17.701] [Worker-Main-3/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id irons_spellbooks:priest
+[25May2025 18:34:44.598] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: awaconqueso132 lost connection: Disconnected
+[25May2025 18:34:44.599] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: awaconqueso132 left the game
+[25May2025 18:34:44.600] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for c2f65d08-be7b-3690-8448-e6de4e1d3a12
+[25May2025 18:35:25.171] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:potion_charm_enchanting removed now.
+[25May2025 18:35:25.183] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:potion_charm_enchanting removed now.
+[25May2025 18:35:25.183] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: awaconqueso132[/127.64.201.139:60167] logged in with entity id 6746 at (257.93128591480496, 76.0, 92.05188954167923)
+[25May2025 18:35:25.236] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: awaconqueso132 joined the game
+[25May2025 18:35:25.278] [Server thread/INFO] [Jade/]: Syncing config to awaconqueso132 (c2f65d08-be7b-3690-8448-e6de4e1d3a12)
+[25May2025 18:35:25.333] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for c2f65d08-be7b-3690-8448-e6de4e1d3a12
+[25May2025 18:35:25.676] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[25May2025 18:35:25.677] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Sending Hello to Client. (server=3.0.14)
+[25May2025 18:35:25.678] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[25May2025 18:35:25.678] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.entities
+[25May2025 18:35:25.678] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.blocks
+[25May2025 18:35:25.679] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
+[25May2025 18:35:25.679] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
+[25May2025 18:35:25.680] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[25May2025 18:35:25.680] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[25May2025 18:35:25.680] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[25May2025 18:35:25.680] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Folder /workspaces/psychic-octo-carnival-srv/servidor_minecraft/bclib-sync (allowDelete=true)
+[25May2025 18:36:20.696] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: awaconqueso132 lost connection: Disconnected
+[25May2025 18:36:20.696] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: awaconqueso132 left the game
+[25May2025 18:36:20.697] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for c2f65d08-be7b-3690-8448-e6de4e1d3a12
