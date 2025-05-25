@@ -437,9 +437,21 @@
     },
     "done": true
   },
+  "apotheosis:give_book": {
+    "criteria": {
+      "tick": "2025-05-25 17:29:48 +0000"
+    },
+    "done": true
+  },
   "mutantmonsters:root": {
     "criteria": {
       "killed_something": "2025-05-25 17:30:54 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:affix/gem": {
+    "criteria": {
+      "gem": "2025-05-25 17:33:45 +0000"
     },
     "done": true
   },
@@ -452,18 +464,6 @@
   "minecraft:story/iron_tools": {
     "criteria": {
       "iron_pickaxe": "2025-05-25 17:59:03 +0000"
-    },
-    "done": true
-  },
-  "apotheosis:affix/gem": {
-    "criteria": {
-      "gem": "2025-05-25 17:33:45 +0000"
-    },
-    "done": true
-  },
-  "apotheosis:give_book": {
-    "criteria": {
-      "tick": "2025-05-25 17:29:48 +0000"
     },
     "done": true
   },

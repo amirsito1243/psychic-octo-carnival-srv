@@ -375,14 +375,15 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:river": "2025-05-25 18:10:14 +0000",
       "minecraft:dripstone_caves": "2025-05-24 21:38:55 +0000",
       "minecraft:old_growth_birch_forest": "2025-05-25 17:58:22 +0000"
     },
     "done": false
   },
-  "mutantmonsters:root": {
+  "apotheosis:give_book": {
     "criteria": {
-      "killed_something": "2025-05-25 17:45:37 +0000"
+      "tick": "2025-05-25 17:08:13 +0000"
     },
     "done": true
   },
@@ -392,15 +393,9 @@
     },
     "done": true
   },
-  "minecraft:story/iron_tools": {
+  "minecraft:story/root": {
     "criteria": {
-      "iron_pickaxe": "2025-05-25 17:15:09 +0000"
-    },
-    "done": true
-  },
-  "caverns_and_chasms:adventure/dont_move": {
-    "criteria": {
-      "spotted_by_peeper": "2025-05-25 17:54:05 +0000"
+      "crafting_table": "2025-05-25 17:13:48 +0000"
     },
     "done": true
   },
@@ -416,6 +411,18 @@
     },
     "done": true
   },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2025-05-25 17:15:09 +0000"
+    },
+    "done": true
+  },
+  "mutantmonsters:root": {
+    "criteria": {
+      "killed_something": "2025-05-25 17:45:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/root": {
     "criteria": {
       "killed_something": "2025-05-25 17:45:37 +0000"
@@ -424,11 +431,15 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "caverns_and_chasms:deeper": "2025-05-25 18:04:39 +0000",
       "minecraft:skeleton": "2025-05-25 17:51:41 +0000",
       "minecraft:spider": "2025-05-25 17:52:37 +0000",
+      "minecraft:creeper": "2025-05-25 18:04:45 +0000",
       "caverns_and_chasms:peeper": "2025-05-25 17:55:06 +0000",
       "minecraft:cave_spider": "2025-05-25 18:01:01 +0000",
-      "minecraft:zombie": "2025-05-25 17:45:37 +0000"
+      "caverns_and_chasms:mime": "2025-05-25 18:06:22 +0000",
+      "minecraft:zombie": "2025-05-25 17:45:37 +0000",
+      "minecraft:zombie_villager": "2025-05-25 18:10:16 +0000"
     },
     "done": false
   },
@@ -438,9 +449,9 @@
     },
     "done": true
   },
-  "apotheosis:give_book": {
+  "caverns_and_chasms:adventure/dont_move": {
     "criteria": {
-      "tick": "2025-05-25 17:08:13 +0000"
+      "spotted_by_peeper": "2025-05-25 17:54:05 +0000"
     },
     "done": true
   },
@@ -450,9 +461,21 @@
     },
     "done": true
   },
-  "minecraft:story/root": {
+  "apotheosis:affix/gem": {
     "criteria": {
-      "crafting_table": "2025-05-25 17:13:48 +0000"
+      "gem": "2025-05-25 18:10:01 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:affix/random": {
+    "criteria": {
+      "sword": "2025-05-25 18:20:19 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:affix/root": {
+    "criteria": {
+      "sword": "2025-05-25 18:20:19 +0000"
     },
     "done": true
   },
