@@ -351,6 +351,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "caverns_and_chasms:deeper": "2025-05-25 17:56:41 +0000",
       "minecraft:skeleton": "2025-05-24 21:23:00 +0000",
       "minecraft:spider": "2025-05-24 21:23:39 +0000",
       "minecraft:creeper": "2025-05-24 21:23:05 +0000",
@@ -445,6 +446,12 @@
   "minecraft:husbandry/tame_an_animal": {
     "criteria": {
       "tamed_animal": "2025-05-25 17:35:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2025-05-25 17:59:03 +0000"
     },
     "done": true
   },

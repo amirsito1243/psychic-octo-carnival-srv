@@ -375,7 +375,8 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "minecraft:dripstone_caves": "2025-05-24 21:38:55 +0000"
+      "minecraft:dripstone_caves": "2025-05-24 21:38:55 +0000",
+      "minecraft:old_growth_birch_forest": "2025-05-25 17:58:22 +0000"
     },
     "done": false
   },
@@ -394,6 +395,12 @@
   "minecraft:story/iron_tools": {
     "criteria": {
       "iron_pickaxe": "2025-05-25 17:15:09 +0000"
+    },
+    "done": true
+  },
+  "caverns_and_chasms:adventure/dont_move": {
+    "criteria": {
+      "spotted_by_peeper": "2025-05-25 17:54:05 +0000"
     },
     "done": true
   },
@@ -419,6 +426,8 @@
     "criteria": {
       "minecraft:skeleton": "2025-05-25 17:51:41 +0000",
       "minecraft:spider": "2025-05-25 17:52:37 +0000",
+      "caverns_and_chasms:peeper": "2025-05-25 17:55:06 +0000",
+      "minecraft:cave_spider": "2025-05-25 18:01:01 +0000",
       "minecraft:zombie": "2025-05-25 17:45:37 +0000"
     },
     "done": false
@@ -432,6 +441,12 @@
   "apotheosis:give_book": {
     "criteria": {
       "tick": "2025-05-25 17:08:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2025-05-25 17:57:16 +0000"
     },
     "done": true
   },

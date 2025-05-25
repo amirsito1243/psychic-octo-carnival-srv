@@ -6726,3 +6726,13 @@ io.netty.incubator.codec.quic.QuicClosedChannelException: null
 [25May2025 17:51:55.169] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: The difficulty has been set to Hard]
 [25May2025 17:54:05.306] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: awaconqueso132 has made the advancement [Don't. Move.]
 [25May2025 17:57:16.757] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: awaconqueso132 has made the advancement [Diamonds!]
+[25May2025 17:58:19.470] [Worker-Main-3/ERROR] [Supplementaries/]: Failed to load textholder data for block at BlockPos{x=79, y=66, z=403}
+[25May2025 17:58:19.472] [Worker-Main-3/ERROR] [Supplementaries/]: Failed to load textholder data for block at BlockPos{x=79, y=66, z=401}
+[25May2025 17:58:19.497] [Worker-Main-3/ERROR] [Supplementaries/]: Failed to load textholder data for block at BlockPos{x=80, y=66, z=401}
+[25May2025 17:58:43.314] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Set own game mode to Creative Mode]
+[25May2025 17:58:58.560] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Set own game mode to Survival Mode]
+[25May2025 17:59:03.541] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: braixen97 has made the advancement [Isn't It Iron Pick]
+[25May2025 18:03:40.986] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Set own game mode to Creative Mode]
+[25May2025 18:03:46.135] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Set own game mode to Survival Mode]
+[25May2025 18:04:47.707] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Set own game mode to Creative Mode]
+[25May2025 18:04:53.483] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Set own game mode to Survival Mode]
