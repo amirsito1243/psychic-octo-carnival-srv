@@ -6682,3 +6682,27 @@ io.netty.incubator.codec.quic.QuicClosedChannelException: null
 [25May2025 17:16:19.021] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: The difficulty has been set to Peaceful]
 [25May2025 17:17:08.323] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Removed every effect from awaconqueso132]
 [25May2025 17:19:35.656] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Applied effect Night Vision to awaconqueso132]
+[25May2025 17:27:47.618] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Removed every effect from awaconqueso132]
+[25May2025 17:27:50.692] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Set own game mode to Creative Mode]
+[25May2025 17:27:55.812] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Set own game mode to Survival Mode]
+[25May2025 17:28:11.466] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: The difficulty has been set to Easy]
+[25May2025 17:29:48.050] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: braixen97[/127.163.124.30:49581] logged in with entity id 2630 at (-33.52405857385093, 64.0, -0.8610355072018675)
+[25May2025 17:29:48.095] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: braixen97 joined the game
+[25May2025 17:29:48.137] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for a8479b4e-008e-3c24-9fb1-d56413662047
+[25May2025 17:29:48.149] [Server thread/INFO] [Jade/]: Syncing config to braixen97 (a8479b4e-008e-3c24-9fb1-d56413662047)
+[25May2025 17:29:51.506] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[25May2025 17:29:51.507] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Sending Hello to Client. (server=3.0.14)
+[25May2025 17:29:51.507] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[25May2025 17:29:51.507] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.entities
+[25May2025 17:29:51.507] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.blocks
+[25May2025 17:29:51.507] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
+[25May2025 17:29:51.507] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
+[25May2025 17:29:51.507] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[25May2025 17:29:51.508] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[25May2025 17:29:51.508] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[25May2025 17:29:51.508] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Folder /workspaces/psychic-octo-carnival-srv/servidor_minecraft/bclib-sync (allowDelete=true)
+[25May2025 17:33:15.011] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: braixen97 was slain by Spider
+[25May2025 17:33:45.159] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: braixen97 has made the advancement [Not a Diamond]
+[25May2025 17:34:43.227] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Set own game mode to Creative Mode]
+[25May2025 17:34:52.293] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Set own game mode to Survival Mode]
+[25May2025 17:35:25.517] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: braixen97 has made the advancement [Best Friends Forever]
