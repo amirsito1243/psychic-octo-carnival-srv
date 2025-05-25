@@ -372,6 +372,7 @@
   },
   "biomeswevegone:biomeswevegone/husbandry/johnny_appleseed": {
     "criteria": {
+      "apple": "2025-05-25 22:36:56 +0000",
       "golden_apple": "2025-05-24 21:38:53 +0000"
     },
     "done": false
@@ -379,10 +380,13 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:river": "2025-05-25 18:10:14 +0000",
+      "minecraft:stony_shore": "2025-05-25 22:33:30 +0000",
       "minecraft:dripstone_caves": "2025-05-24 21:38:55 +0000",
+      "minecraft:forest": "2025-05-25 22:37:56 +0000",
       "autumnity:autumnity:maple_forest": "2025-05-25 18:34:07 +0000",
       "minecraft:old_growth_birch_forest": "2025-05-25 17:58:22 +0000",
-      "minecraft:savanna": "2025-05-25 22:06:22 +0000"
+      "minecraft:savanna": "2025-05-25 22:06:22 +0000",
+      "minecraft:plains": "2025-05-25 22:33:21 +0000"
     },
     "done": false
   },
@@ -437,11 +441,14 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "caverns_and_chasms:deeper": "2025-05-25 18:04:39 +0000",
+      "minecraft:pillager": "2025-05-25 22:52:45 +0000",
       "minecraft:skeleton": "2025-05-25 17:51:41 +0000",
+      "minecraft:vindicator": "2025-05-25 22:52:38 +0000",
       "minecraft:spider": "2025-05-25 17:52:37 +0000",
       "minecraft:creeper": "2025-05-25 18:04:45 +0000",
       "caverns_and_chasms:peeper": "2025-05-25 17:55:06 +0000",
       "quark:forgotten": "2025-05-25 18:27:19 +0000",
+      "minecraft:zombified_piglin": "2025-05-25 22:58:15 +0000",
       "minecraft:cave_spider": "2025-05-25 18:01:01 +0000",
       "caverns_and_chasms:mime": "2025-05-25 18:06:22 +0000",
       "minecraft:zombie": "2025-05-25 17:45:37 +0000",
@@ -509,9 +516,9 @@
     },
     "done": true
   },
-  "create_enchantment_industry:experienced_engineer": {
+  "integrated_villages:mediterranean_village": {
     "criteria": {
-      "have_experience_nugget": "2025-05-25 22:12:12 +0000"
+      "in_mediterranean_village": "2025-05-25 22:06:25 +0000"
     },
     "done": true
   },
@@ -527,15 +534,9 @@
     },
     "done": true
   },
-  "create:track_0": {
+  "create_enchantment_industry:experienced_engineer": {
     "criteria": {
-      "0": "2025-05-25 22:16:37 +0000"
-    },
-    "done": true
-  },
-  "integrated_villages:tavern_village": {
-    "criteria": {
-      "in_tavern_village": "2025-05-25 22:14:16 +0000"
+      "have_experience_nugget": "2025-05-25 22:12:12 +0000"
     },
     "done": true
   },
@@ -545,15 +546,138 @@
     },
     "done": true
   },
-  "integrated_villages:mediterranean_village": {
+  "integrated_villages:tavern_village": {
     "criteria": {
-      "in_mediterranean_village": "2025-05-25 22:06:25 +0000"
+      "in_tavern_village": "2025-05-25 22:14:16 +0000"
     },
     "done": true
   },
   "apotheosis:affix/chests": {
     "criteria": {
       "sword": "2025-05-25 22:16:26 +0000"
+    },
+    "done": true
+  },
+  "create:track_0": {
+    "criteria": {
+      "0": "2025-05-25 22:16:37 +0000"
+    },
+    "done": true
+  },
+  "create:wrench_goggles": {
+    "criteria": {
+      "0": "2025-05-25 23:51:46 +0000",
+      "1": "2025-05-25 22:20:29 +0000"
+    },
+    "done": true
+  },
+  "ironfurnaces:coal": {
+    "criteria": {
+      "rainbowcoal": "2025-05-25 22:29:39 +0000"
+    },
+    "done": true
+  },
+  "lootr:root": {
+    "criteria": {
+      "always_true": "2025-05-25 22:29:50 +0000"
+    },
+    "done": true
+  },
+  "lootr:1chest": {
+    "criteria": {
+      "opened_chest": "2025-05-25 22:34:05 +0000"
+    },
+    "done": true
+  },
+  "lootr:social": {
+    "criteria": {
+      "opened_barrel": "2025-05-25 22:47:23 +0000",
+      "opened_chest": "2025-05-25 22:34:05 +0000"
+    },
+    "done": false
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-05-25 22:34:26 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/get_fd_seed": {
+    "criteria": {
+      "onion": "2025-05-25 22:35:39 +0000"
+    },
+    "done": true
+  },
+  "lootr:10loot": {
+    "criteria": {
+      "loot_stat": "2025-05-25 22:36:54 +0000"
+    },
+    "done": true
+  },
+  "lootr:25loot": {
+    "criteria": {
+      "loot_stat": "2025-05-25 22:39:37 +0000"
+    },
+    "done": true
+  },
+  "lootr:1barrel": {
+    "criteria": {
+      "opened_barrel": "2025-05-25 22:47:23 +0000"
+    },
+    "done": true
+  },
+  "artifacts:amateur_archaeologist": {
+    "criteria": {
+      "find_artifact": "2025-05-25 22:48:12 +0000"
+    },
+    "done": true
+  },
+  "lootr:50loot": {
+    "criteria": {
+      "loot_stat": "2025-05-25 22:48:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2025-05-25 22:57:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2025-05-25 22:57:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:soul_sand_valley": "2025-05-25 22:57:36 +0000",
+      "minecraft:basalt_deltas": "2025-05-25 22:58:57 +0000"
+    },
+    "done": false
+  },
+  "apotheosis:affix/boss": {
+    "criteria": {
+      "sword": "2025-05-25 22:58:17 +0000"
+    },
+    "done": true
+  },
+  "create:brass": {
+    "criteria": {
+      "0": "2025-05-25 23:52:05 +0000"
+    },
+    "done": true
+  },
+  "create:burner": {
+    "criteria": {
+      "0": "2025-05-25 23:51:07 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:spawner/capturing": {
+    "criteria": {
+      "egg": "2025-05-25 23:51:12 +0000"
     },
     "done": true
   },
