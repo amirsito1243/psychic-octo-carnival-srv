@@ -681,9 +681,45 @@
     },
     "done": true
   },
+  "moped:copper_moped_root": {
+    "criteria": {
+      "copper_moped_root": "2025-05-26 00:08:19 +0000"
+    },
+    "done": true
+  },
   "create:deployer": {
     "criteria": {
       "0": "2025-05-25 23:58:14 +0000"
+    },
+    "done": true
+  },
+  "create:copper": {
+    "criteria": {
+      "0": "2025-05-26 00:08:19 +0000"
+    },
+    "done": true
+  },
+  "create:mechanical_mixer": {
+    "criteria": {
+      "0": "2025-05-26 00:08:35 +0000"
+    },
+    "done": true
+  },
+  "create:mechanical_press": {
+    "criteria": {
+      "0": "2025-05-26 00:08:09 +0000"
+    },
+    "done": true
+  },
+  "create:speed_controller": {
+    "criteria": {
+      "0": "2025-05-26 00:03:33 +0000"
+    },
+    "done": true
+  },
+  "create:fan_processing": {
+    "criteria": {
+      "0": "2025-05-26 00:11:30 +0000"
     },
     "done": true
   },
@@ -708,6 +744,12 @@
   "apotheosis:spawner/capturing": {
     "criteria": {
       "egg": "2025-05-25 23:51:12 +0000"
+    },
+    "done": true
+  },
+  "caverns_and_chasms:adventure/smelt_copper": {
+    "criteria": {
+      "copper": "2025-05-26 00:08:19 +0000"
     },
     "done": true
   },
