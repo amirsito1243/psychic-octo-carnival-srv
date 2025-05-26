@@ -669,11 +669,41 @@
     },
     "done": true
   },
+  "create:encased_fan": {
+    "criteria": {
+      "0": "2025-05-26 00:00:42 +0000"
+    },
+    "done": true
+  },
+  "create:water_wheel": {
+    "criteria": {
+      "0": "2025-05-25 23:53:49 +0000"
+    },
+    "done": true
+  },
+  "create:deployer": {
+    "criteria": {
+      "0": "2025-05-25 23:58:14 +0000"
+    },
+    "done": true
+  },
   "create:burner": {
     "criteria": {
       "0": "2025-05-25 23:51:07 +0000"
     },
     "done": true
+  },
+  "create:precision_mechanism": {
+    "criteria": {
+      "0": "2025-05-25 23:54:21 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/plant_all_crops": {
+    "criteria": {
+      "kelp": "2025-05-25 23:56:02 +0000"
+    },
+    "done": false
   },
   "apotheosis:spawner/capturing": {
     "criteria": {
