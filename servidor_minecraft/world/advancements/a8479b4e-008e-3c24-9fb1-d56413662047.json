@@ -467,5 +467,17 @@
     },
     "done": true
   },
+  "ironfurnaces:coal": {
+    "criteria": {
+      "rainbowcoal": "2025-05-26 14:32:49 +0000"
+    },
+    "done": true
+  },
+  "lootr:root": {
+    "criteria": {
+      "always_true": "2025-05-26 14:32:49 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
