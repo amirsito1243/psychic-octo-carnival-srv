@@ -355,7 +355,9 @@
       "minecraft:skeleton": "2025-05-24 21:23:00 +0000",
       "minecraft:spider": "2025-05-24 21:23:39 +0000",
       "minecraft:creeper": "2025-05-24 21:23:05 +0000",
+      "caverns_and_chasms:peeper": "2025-05-26 14:37:41 +0000",
       "minecraft:witch": "2025-05-24 21:35:16 +0000",
+      "caverns_and_chasms:mime": "2025-05-26 14:40:49 +0000",
       "minecraft:zombie": "2025-05-24 21:23:33 +0000"
     },
     "done": false
@@ -382,6 +384,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "bread": "2025-05-24 21:42:04 +0000",
+      "golden_apple": "2025-05-26 14:38:08 +0000",
       "rotten_flesh": "2025-05-24 21:24:16 +0000",
       "cooked_salmon": "2025-05-24 21:34:37 +0000",
       "apple": "2025-05-24 21:23:15 +0000",
@@ -421,6 +424,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:river": "2025-05-26 14:37:31 +0000",
       "minecraft:dripstone_caves": "2025-05-24 21:35:06 +0000"
     },
     "done": false
@@ -464,6 +468,12 @@
   "minecraft:story/iron_tools": {
     "criteria": {
       "iron_pickaxe": "2025-05-25 17:59:03 +0000"
+    },
+    "done": true
+  },
+  "caverns_and_chasms:adventure/dont_move": {
+    "criteria": {
+      "spotted_by_peeper": "2025-05-26 14:37:02 +0000"
     },
     "done": true
   },
